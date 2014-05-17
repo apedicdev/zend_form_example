@@ -1,4 +1,4 @@
-zend_form_example
+Zend Form example
 =================
 
 In this example, I've developed a small web application, using Zend Framework 1,
