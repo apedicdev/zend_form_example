@@ -1,0 +1,12 @@
+<?php
+if (isset($this->errorMessage)) {
+
+    echo $this->errorMessage;
+}
+    ?>
+<?php $this->headTitle('Login'); ?>
+<h1>Please login or register</h1>
+<div><a href="index">Home</a></div>
+<div><a href="auth/register">Register</a></div>
+<?php 
+echo $this->form->setAction($this->url());

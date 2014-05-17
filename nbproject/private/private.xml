@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/views/scripts/auth/index.phtml</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/public/.htaccess</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/views/scripts/error/error.phtml</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/forms/Login.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/controllers/IndexController.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/views/scripts/index/index.phtml</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/forms/Register.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/views/scripts/auth/register.phtml</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/public/index.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/controllers/SearchController.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/controllers/AuthController.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/models/Users.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/forms/Search.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/views/scripts/search/index.phtml</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/Bootstrap.php</file>
+        </group>
+    </open-files>
+</project-private>

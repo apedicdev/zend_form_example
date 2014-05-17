@@ -1,0 +1,12 @@
+<br /><br />
+<div id="view-content">
+    <div><a href="index">index</a></div>
+    <div><a href="auth/logout">logout</a></div>
+	<?php foreach ($this->users as $user){?>
+    <div style="clear:both">
+    <div style="float:left">Name: <?=$user['name'];?></div> <div style="float:left; margin-left: 10px">Email: <?=$user['email'];?></div>
+    </div>
+            <?php
+        }
+        ?>
+</div>
