@@ -10,6 +10,7 @@
             <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/controllers/IndexController.php</file>
             <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/views/scripts/index/index.phtml</file>
             <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/forms/Register.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/controllers/ErrorController.php</file>
             <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/views/scripts/auth/register.phtml</file>
             <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/public/index.php</file>
             <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/controllers/SearchController.php</file>
@@ -18,6 +19,8 @@
             <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/forms/Search.php</file>
             <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/views/scripts/search/index.phtml</file>
             <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/Bootstrap.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/application/configs/application.ini</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/zend_form/README.md</file>
         </group>
     </open-files>
 </project-private>
